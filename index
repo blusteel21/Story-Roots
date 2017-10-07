@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Solution Sources</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Keywords" content="open-source,solutions,priority">
+  <meta name="Description" content="Using Problems to Create Solutions.">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P|Raleway" rel="stylesheet">
+ </head>
+ <body>
+   <header class="title" id="welcome">
+       <h1 class="title" id="title">Title of Portal</h1>
+       <h6 class="quotes" id="quotes">Motto of the company and stuff.</h6>
+     <p class="site-tips" id="site-tips"><strong>Welcome</strong> to this site we have things for you to look at and enjoy this day.</p>
+   </header>
+   <nav class="nav" id="topNav">
+    <a id="openMenu" href="#menu" onclick="openNav()">&#9776;</a><strong>Guest</strong>
+    <a id="menuRight">Login</a>
+    <a id="menuRight">About</a>
+   </nav>
+   <nav class="side-nav" id="sideNav" onclick="closeNav()">
+     <img class="icon" id="sideNav" href="#something" src="http://www.pitt.edu/~medart/image/glossary/Greekkey.JPG">
+     <a id="sideNav" href="#else">ok</a>
+   </nav>
+   <div class="container" id="content">
+     <div><h4>The Guilded Third State</h4>
+     <p>Pale and looking slightly green our hero sits on the bed of a jungle themed blanket. The tea sitting on the edge of the darkly painted night stand that holds the precious items that he has found and saved from his journeys. He looks up stairing into the eyes, your eyes are held and with a swift motion he grabs the small book. It had been covering the Multi-colored zebra. He continues to stare into your eyes as he opens the book bound in leather. It was not a traditional book with pages. It is a book that helps find the answers to every trial he goes through. as he holds your vision the book disappears and for the first time our hero must face the trial alone.</p>
+     </div>
+     <h4>else</h4>
+     <p>Pale and looking slightly green our heroine sits on the bed of a jungle themed blanket. The tea sitting on the edge of the darkly painted night stand that holds the precious items that she has found and saved from his journeys. He looks up stairing into the eyes, your eyes are held and with a swift motion he grabs the small book. It had been covering the Multi-colored zebra. He continues to stare into your eyes as he opens the book bound in leather. It was not a traditional book with pages. It is a book that helps find the answers to every trial he goes through. as he holds your vision the book disappears and for the first time our hero must face the trial alone.</p>
+   </div>
+ </body>
+</html>
